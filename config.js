@@ -1,7 +1,7 @@
 /* eslint-env browser  */
 
 module.exports = {
-  homeURL: 'http://etheroox.com',
+  homeURL: 'http://senoexchange.github.io',
   contractDecentrEx: 'smart_contract/etheroox.sol',
   contractToken: 'smart_contract/token.sol',
   contractReserveToken: 'smart_contract/reservetoken.sol',
@@ -19,8 +19,8 @@ module.exports = {
   gasTrade: 250000,
   gasOrder: 250000,
   ordersOnchain: false,
-  apiServer: 'http://etheroox.com',
-  userCookie: 'EtheRoox',
+  apiServer: 'http://senoexchange.github.io',
+  userCookie: 'senoexchange',
   eventsCacheCookie: 'EtheRoox_eventsCache',
   deadOrdersCacheCookie: 'EtheRoox_deadOrdersCache',
   ordersCacheCookie: 'EtheRoox_ordersCache',
